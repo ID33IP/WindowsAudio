@@ -1,4 +1,6 @@
 # WindowsAudio
+
+## ToggleMicMute
 Small program that toggles the mute status of the default capture device. Plays two different windows sounds when muting/unmuting,
 
 Made it because my microphone didn't have a hardware button and I wanted to be able to mute on the go. I also wanted to experiment with programming Windows stuff.
